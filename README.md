@@ -3,3 +3,5 @@
 2022-11-27 添加Perceptron项目
 
 2022-11-28 添加BayesClassifier项目
+
+2022-11-29 添加LBP项目
